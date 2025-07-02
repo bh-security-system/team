@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://te.ilooo.ir//postN.php",
-      "get": "https://te.ilooo.ir/getN.php",
-      "server": "https://te.ilooo.ir/server_none.png",
-      "user": "https://te.ilooo.ir/user_ban.png"
+      "post": "https://app.mrseraj.ir/postN.php",
+      "get": "https://app.mrseraj.ir/getN.php",
+      "server": "https://app.mrseraj.ir/server_none.png",
+      "user": "https://app.mrseraj.ir/user_ban.png"
     }
   ]
 }
