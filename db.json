@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.mrseraj.ir/postN.php",
-      "get": "https://app.mrseraj.ir/getN.php",
-      "server": "https://app.mrseraj.ir/server_none.png",
-      "user": "https://app.mrseraj.ir/user_ban.png"
+      "post": "https://app.sanbox.top/postN.php",
+      "get": "https://app.sanbox.top/getN.php",
+      "server": "https://app.sanbox.top/server_none.png",
+      "user": "https://app.sanbox.top/user_ban.png"
     }
   ]
 }
